@@ -10,6 +10,13 @@
       <None Include="Program.cs" />
       <Compile Remove="Sesion1\Program.cs" />
       <None Include="Sesion1\Program.cs" />
+      <Compile Remove="Labs4\labs4.cs" />
+      <Compile Remove="Labs3\Cart.cs" />
+      <None Include="Labs3\Cart.cs" />
+      <Compile Remove="Session4\Program.cs" />
+      <None Include="Session4\Program.cs" />
+      <Compile Remove="Session3\Program.cs" />
+      <None Include="Session3\Program.cs" />
     </ItemGroup>
 
 </Project>
