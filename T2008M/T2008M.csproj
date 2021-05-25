@@ -19,10 +19,8 @@
       <None Include="Labs3\Cart.cs" />
       <Compile Remove="Labs5\Delegate.cs" />
       <None Include="Labs5\Delegate.cs" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Labs4" />
+      <Compile Remove="Labs4\Program.cs" />
+      <None Include="Labs4\Program.cs" />
     </ItemGroup>
 
 </Project>
