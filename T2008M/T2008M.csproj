@@ -21,6 +21,12 @@
       <None Include="Labs5\Delegate.cs" />
       <Compile Remove="Labs4\Program.cs" />
       <None Include="Labs4\Program.cs" />
+      <Compile Remove="Session5\Program.cs" />
+      <None Include="Session5\Program.cs" />
+      <Compile Remove="labs6\Time.cs" />
+      <None Include="labs6\Time.cs" />
+      <Compile Remove="AssignmentOne\Program.cs" />
+      <None Include="AssignmentOne\Program.cs" />
     </ItemGroup>
 
 </Project>
