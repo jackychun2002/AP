@@ -27,6 +27,11 @@
       <None Include="labs6\Time.cs" />
       <Compile Remove="AssignmentOne\Program.cs" />
       <None Include="AssignmentOne\Program.cs" />
+      <Compile Remove="PRACTICAL\GeometryExample.cs" />
+      <Compile Remove="GeometryExample\Program.cs" />
+      <None Include="GeometryExample\Program.cs" />
+      <Compile Remove="GeometryExample2\Program.cs" />
+      <None Include="GeometryExample2\Program.cs" />
     </ItemGroup>
 
 </Project>
